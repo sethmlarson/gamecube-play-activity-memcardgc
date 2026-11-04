@@ -1,0 +1,6 @@
+--no-binary :all:
+
+urllib3==2.8.0
+pypresence==4.6.1
+tqdm
+colorama
